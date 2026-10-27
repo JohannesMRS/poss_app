@@ -1,4 +1,4 @@
-# pos_backend
+# Point Of Sales App 
 
 A new Flutter project.
 
